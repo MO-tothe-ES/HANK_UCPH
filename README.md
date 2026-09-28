@@ -1,9 +1,9 @@
-# Heterogeneous Agents & Computational Macroeconomics
+# Heterogeneous Agent Models & Computational Macroeconomics
 
-Personal notes on heterogeneous-agent models and computational macroeconomics.
+Personlige noter fra faget *Heterogeneous Agent Models* på KU samt generelle noter om computational macroeconomics.
 
-Currently includes:
-- Dynamic programming and EGM
-- Sequence space methods and Broyden's method
+Indeholder foreløbigt noter om:
+- Dynamisk programmering og EGM
+- Sequence space metoden og Broyden-løseren
 
-More notes will be added over time.
+Flere noter tilføjes løbende.
